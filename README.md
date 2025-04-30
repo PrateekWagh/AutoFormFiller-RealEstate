@@ -29,7 +29,9 @@ A Python automation script that scrapes apartment listings from a dummy real est
 
 
 📂 Project Structure
-AutoFormFiller-RealEstate/
+AutoFormFiller-RealEstate
+
+/
 │
 └── main.py
 
